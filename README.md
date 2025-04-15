@@ -11,12 +11,12 @@ La biblioteca `RR23027UNO` proporciona métodos para resolver sistemas de ecuaci
 - 🔹 **Método de Gauss-Seidel**
 - 🔹 **Método de Bisección**
 
-Esta biblioteca está diseñada para ser fácil de usar y comprender, ideal para estudiantes y profesionales que trabajan con métodos numéricos.
+Esta biblioteca está diseñada para ser fácil de usar y comprender, se trabaja con métodos numéricos.
 
 ---
 
 ## 🛠️ Instalación
-Para instalar la biblioteca, utiliza el siguiente comando después de publicarla en PyPI:
+Para instalar la biblioteca, utilizaremos el siguiente comando:
 
 ```bash
 pip install RR23027UNO
@@ -25,7 +25,7 @@ pip install RR23027UNO
 ---
 
 ## 📋 Uso
-Aquí tienes un ejemplo de cómo usar la biblioteca:
+Aquí comprendemos un ejemplo de cómo usar la biblioteca:
 
 ```python
 from RR23027UNO.methods import eliminacion_gauss
@@ -36,7 +36,7 @@ solucion = eliminacion_gauss(A, b)
 print("Solución:", solucion)
 ```
 
-Para más ejemplos, consulta el archivo `ejemploUso.py`.
+Para más ejemplos, podemos consultar el archivo `ejemploUso.py` (con py).
 
 ---
 
@@ -51,11 +51,5 @@ RR23027UNO/
 
 ---
 
-## 📜 Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
-
----
-
 ## 💡 Notas
-- Asegúrate de tener instalada la biblioteca `numpy` antes de usar los métodos.
-- Si encuentras algún problema, no dudes en reportarlo.
+- Asegurarnos de tener instalada la biblioteca `numpy` antes de usar los métodos.
